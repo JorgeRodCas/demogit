@@ -7,12 +7,8 @@ public class coleccion {
         names.add("Estela");
         names.add("Sebastián");
         names.add("Ángela");
-<<<<<<< HEAD
-        names.add("Mario");
-=======
         names.add("Sandra");
         names.add("Miriam");
->>>>>>> master
         System.out.println(names);
     }
 }
