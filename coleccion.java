@@ -7,7 +7,7 @@ public class coleccion {
         names.add("Estela");
         names.add("Sebastián");
         names.add("Ángela");
-        names.add("Marcelo");
+        names.add("Mario");
         System.out.println(names);
     }
 }
